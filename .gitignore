@@ -1,0 +1,6 @@
+output/
+*.tmp
+*.xcf
+*.kra
+.DS_Store
+Thumbs.db
