@@ -5,7 +5,6 @@
   <img src="BatmanUpsideDown.png" width="30%" alt="BatmanUpsideDown.png">
   <img src="Beginings.png" width="30%" alt="Beginings.png">
   <img src="Caraxes.png" width="30%" alt="Caraxes.png">
-  <img src="CliffGOT.png" width="30%" alt="CliffGOT.png">
   <img src="DrogonAndJon.png" width="30%" alt="DrogonAndJon.png">
   <img src="DrogonKingslanding.png" width="30%" alt="DrogonKingslanding.png">
   <img src="Dune1.jpg" width="30%" alt="Dune1.jpg">
