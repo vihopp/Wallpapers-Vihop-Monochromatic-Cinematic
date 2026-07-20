@@ -15,6 +15,7 @@
   <img src="DuneOrbitalEclypse.png" width="30%" alt="DuneOrbitalEclypse.png">
   <img src="DuneSpaceship.png" width="30%" alt="DuneSpaceship.png">
   <img src="DuneSpaceships.png" width="30%" alt="DuneSpaceships.png">
+  <img src="Eclipse.png" width="30%" alt="Eclipse.png">
   <img src="Griffith&YoungCasca.png" width="30%" alt="Griffith&YoungCasca.png">
   <img src="GriffithBehelit.png" width="30%" alt="GriffithBehelit.png">
   <img src="GriffithsDream.png" width="30%" alt="GriffithsDream.png">
@@ -43,6 +44,5 @@
   <img src="bluehour.jpg" width="30%" alt="bluehour.jpg">
   <img src="bridgeGOT.png" width="30%" alt="bridgeGOT.png">
   <img src="flowers-9.jpg" width="30%" alt="flowers-9.jpg">
-  <img src="output-onlinepngtools.png" width="30%" alt="output-onlinepngtools.png">
   <img src="wallhaven-72m513.png" width="30%" alt="wallhaven-72m513.png">
 </p>
