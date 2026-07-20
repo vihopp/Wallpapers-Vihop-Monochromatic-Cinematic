@@ -29,6 +29,7 @@
   <img src="JaceDeath.png" width="30%" alt="JaceDeath.png">
   <img src="Khalessi.png" width="30%" alt="Khalessi.png">
   <img src="PaulAtreides.png" width="30%" alt="PaulAtreides.png">
+  <img src="Planet.png" width="30%" alt="Planet.png">
   <img src="StarkExecutingDeserter.png" width="30%" alt="StarkExecutingDeserter.png">
   <img src="SupermansHand.png" width="30%" alt="SupermansHand.png">
   <img src="SyraxClouds.png" width="30%" alt="SyraxClouds.png">
@@ -43,5 +44,4 @@
   <img src="bluehour.jpg" width="30%" alt="bluehour.jpg">
   <img src="bridgeGOT.png" width="30%" alt="bridgeGOT.png">
   <img src="flowers-9.jpg" width="30%" alt="flowers-9.jpg">
-  <img src="wallhaven-72m513.png" width="30%" alt="wallhaven-72m513.png">
 </p>
