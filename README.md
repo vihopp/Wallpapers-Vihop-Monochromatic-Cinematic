@@ -1,6 +1,6 @@
 # 🖼 Wallpapers
 
-**Total Wallpapers:** **43**
+**Total Wallpapers:** **64**
 
 ---
 
@@ -8,11 +8,50 @@
 <tr>
 
 <td align="center" valign="top">
+<a href="(AKOTSK)AerionSwinging.png">
+<img src=".thumbnails/(AKOTSK)AerionSwinging.webp" width="320" alt="">
+</a>
+</td>
+
+
+<td align="center" valign="top">
+<a href="(AKOTSK)DonQuixote.png">
+<img src=".thumbnails/(AKOTSK)DonQuixote.webp" width="320" alt="">
+</a>
+</td>
+
+
+<td align="center" valign="top">
+<a href="(AKOTSK)DuncanBois.png">
+<img src=".thumbnails/(AKOTSK)DuncanBois.webp" width="320" alt="">
+</a>
+</td>
+
+</tr>
+<tr>
+
+<td align="center" valign="top">
+<a href="(AKOTSK)FlowerDuncan.png">
+<img src=".thumbnails/(AKOTSK)FlowerDuncan.webp" width="320" alt="">
+</a>
+</td>
+
+
+<td align="center" valign="top">
+<a href="(AKOTSK)Knights.png">
+<img src=".thumbnails/(AKOTSK)Knights.webp" width="320" alt="">
+</a>
+</td>
+
+
+<td align="center" valign="top">
 <a href="(Berserk)Griffith&YoungCasca.png">
 <img src=".thumbnails/(Berserk)Griffith&YoungCasca.webp" width="320" alt="">
 </a>
 </td>
 
+</tr>
+<tr>
 
 <td align="center" valign="top">
 <a href="(Berserk)GriffithBehelit.png">
@@ -27,8 +66,6 @@
 </a>
 </td>
 
-</tr>
-<tr>
 
 <td align="center" valign="top">
 <a href="(Berserk)Guts&Griffith.jpg">
@@ -36,6 +73,8 @@
 </a>
 </td>
 
+</tr>
+<tr>
 
 <td align="center" valign="top">
 <a href="(Berserk)GutsBeam.png">
@@ -50,8 +89,6 @@
 </a>
 </td>
 
-</tr>
-<tr>
 
 <td align="center" valign="top">
 <a href="(DC)BatmanUpsideDown.png">
@@ -59,6 +96,8 @@
 </a>
 </td>
 
+</tr>
+<tr>
 
 <td align="center" valign="top">
 <a href="(DC)Beginings.png">
@@ -73,8 +112,6 @@
 </a>
 </td>
 
-</tr>
-<tr>
 
 <td align="center" valign="top">
 <a href="(Dune)Arrakis.png">
@@ -82,6 +119,8 @@
 </a>
 </td>
 
+</tr>
+<tr>
 
 <td align="center" valign="top">
 <a href="(Dune)DuneAsteroid.png">
@@ -96,8 +135,6 @@
 </a>
 </td>
 
-</tr>
-<tr>
 
 <td align="center" valign="top">
 <a href="(Dune)DuneMountain.jpg">
@@ -105,6 +142,8 @@
 </a>
 </td>
 
+</tr>
+<tr>
 
 <td align="center" valign="top">
 <a href="(Dune)DuneOrbitalEclypse.png">
@@ -119,8 +158,6 @@
 </a>
 </td>
 
-</tr>
-<tr>
 
 <td align="center" valign="top">
 <a href="(Dune)DuneSpaceships.png">
@@ -128,6 +165,8 @@
 </a>
 </td>
 
+</tr>
+<tr>
 
 <td align="center" valign="top">
 <a href="(Dune)HarkonenArena.png">
@@ -142,8 +181,6 @@
 </a>
 </td>
 
-</tr>
-<tr>
 
 <td align="center" valign="top">
 <a href="(Dune)HarkonenArmy.png">
@@ -151,6 +188,8 @@
 </a>
 </td>
 
+</tr>
+<tr>
 
 <td align="center" valign="top">
 <a href="(Dune)PaulAtreides.png">
@@ -165,8 +204,6 @@
 </a>
 </td>
 
-</tr>
-<tr>
 
 <td align="center" valign="top">
 <a href="(GOT)DrogonKingslanding.png">
@@ -174,6 +211,8 @@
 </a>
 </td>
 
+</tr>
+<tr>
 
 <td align="center" valign="top">
 <a href="(GOT)Khalessi.png">
@@ -188,8 +227,6 @@
 </a>
 </td>
 
-</tr>
-<tr>
 
 <td align="center" valign="top">
 <a href="(GOT)bridgeGOT.png">
@@ -197,6 +234,8 @@
 </a>
 </td>
 
+</tr>
+<tr>
 
 <td align="center" valign="top">
 <a href="(HOTD)Caraxes.png">
@@ -211,8 +250,6 @@
 </a>
 </td>
 
-</tr>
-<tr>
 
 <td align="center" valign="top">
 <a href="(HOTD)SyraxClouds.png">
@@ -220,6 +257,8 @@
 </a>
 </td>
 
+</tr>
+<tr>
 
 <td align="center" valign="top">
 <a href="(HOTD)TargaryanShip.png">
@@ -234,8 +273,6 @@
 </a>
 </td>
 
-</tr>
-<tr>
 
 <td align="center" valign="top">
 <a href="(HOTD)VhagarMoon.png">
@@ -243,10 +280,134 @@
 </a>
 </td>
 
+</tr>
+<tr>
+
+<td align="center" valign="top">
+<a href="(Tron)Bike.png">
+<img src=".thumbnails/(Tron)Bike.webp" width="320" alt="">
+</a>
+</td>
+
+
+<td align="center" valign="top">
+<a href="(Tron)Explosion.png">
+<img src=".thumbnails/(Tron)Explosion.webp" width="320" alt="">
+</a>
+</td>
+
+
+<td align="center" valign="top">
+<a href="(Tron)TwoMB.png">
+<img src=".thumbnails/(Tron)TwoMB.webp" width="320" alt="">
+</a>
+</td>
+
+</tr>
+<tr>
+
+<td align="center" valign="top">
+<a href="(Vikings)Bay.png">
+<img src=".thumbnails/(Vikings)Bay.webp" width="320" alt="">
+</a>
+</td>
+
+
+<td align="center" valign="top">
+<a href="(Vikings)CamelShot.png">
+<img src=".thumbnails/(Vikings)CamelShot.webp" width="320" alt="">
+</a>
+</td>
+
+
+<td align="center" valign="top">
+<a href="(Vikings)Carrying.png">
+<img src=".thumbnails/(Vikings)Carrying.webp" width="320" alt="">
+</a>
+</td>
+
+</tr>
+<tr>
+
+<td align="center" valign="top">
+<a href="(Vikings)CaveTrapped.png">
+<img src=".thumbnails/(Vikings)CaveTrapped.webp" width="320" alt="">
+</a>
+</td>
+
+
+<td align="center" valign="top">
+<a href="(Vikings)Death.png">
+<img src=".thumbnails/(Vikings)Death.webp" width="320" alt="">
+</a>
+</td>
+
+
+<td align="center" valign="top">
+<a href="(Vikings)EnglandsCoast.png">
+<img src=".thumbnails/(Vikings)EnglandsCoast.webp" width="320" alt="">
+</a>
+</td>
+
+</tr>
+<tr>
+
+<td align="center" valign="top">
+<a href="(Vikings)FoggedTree.jpeg.png">
+<img src=".thumbnails/(Vikings)FoggedTree.jpeg.webp" width="320" alt="">
+</a>
+</td>
+
+
+<td align="center" valign="top">
+<a href="(Vikings)Forest.png">
+<img src=".thumbnails/(Vikings)Forest.webp" width="320" alt="">
+</a>
+</td>
+
 
 <td align="center" valign="top">
 <a href="(Vikings)GreenishMoon.jpg">
 <img src=".thumbnails/(Vikings)GreenishMoon.webp" width="320" alt="">
+</a>
+</td>
+
+</tr>
+<tr>
+
+<td align="center" valign="top">
+<a href="(Vikings)IcedMountains.png">
+<img src=".thumbnails/(Vikings)IcedMountains.webp" width="320" alt="">
+</a>
+</td>
+
+
+<td align="center" valign="top">
+<a href="(Vikings)IcelandCoast.png">
+<img src=".thumbnails/(Vikings)IcelandCoast.webp" width="320" alt="">
+</a>
+</td>
+
+
+<td align="center" valign="top">
+<a href="(Vikings)Ship.png">
+<img src=".thumbnails/(Vikings)Ship.webp" width="320" alt="">
+</a>
+</td>
+
+</tr>
+<tr>
+
+<td align="center" valign="top">
+<a href="(Vikings)Shipwreck.png">
+<img src=".thumbnails/(Vikings)Shipwreck.webp" width="320" alt="">
+</a>
+</td>
+
+
+<td align="center" valign="top">
+<a href="(Vikings)Sword.png">
+<img src=".thumbnails/(Vikings)Sword.webp" width="320" alt="">
 </a>
 </td>
 
