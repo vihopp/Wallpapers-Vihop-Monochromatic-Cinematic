@@ -1,6 +1,6 @@
 # 🖼 Wallpapers
 
-**Total Wallpapers:** **64**
+**Total Wallpapers:** **69**
 
 ---
 
@@ -45,8 +45,8 @@
 
 
 <td align="center" valign="top">
-<a href="(Berserk)Griffith&YoungCasca.png">
-<img src=".thumbnails/(Berserk)Griffith&YoungCasca.webp" width="320" alt="">
+<a href="(AKOTSK)YoungDuncan.png">
+<img src=".thumbnails/(AKOTSK)YoungDuncan.webp" width="320" alt="">
 </a>
 </td>
 
@@ -54,11 +54,27 @@
 <tr>
 
 <td align="center" valign="top">
+<a href="(Berserk)1v1.png">
+<img src=".thumbnails/(Berserk)1v1.webp" width="320" alt="">
+</a>
+</td>
+
+
+<td align="center" valign="top">
+<a href="(Berserk)Griffith&YoungCasca.png">
+<img src=".thumbnails/(Berserk)Griffith&YoungCasca.webp" width="320" alt="">
+</a>
+</td>
+
+
+<td align="center" valign="top">
 <a href="(Berserk)GriffithBehelit.png">
 <img src=".thumbnails/(Berserk)GriffithBehelit.webp" width="320" alt="">
 </a>
 </td>
 
+</tr>
+<tr>
 
 <td align="center" valign="top">
 <a href="(Berserk)GriffithsDream.png">
@@ -73,8 +89,6 @@
 </a>
 </td>
 
-</tr>
-<tr>
 
 <td align="center" valign="top">
 <a href="(Berserk)GutsBeam.png">
@@ -82,10 +96,42 @@
 </a>
 </td>
 
+</tr>
+<tr>
 
 <td align="center" valign="top">
 <a href="(Berserk)GutsHurt.jpg">
 <img src=".thumbnails/(Berserk)GutsHurt.webp" width="320" alt="">
+</a>
+</td>
+
+
+<td align="center" valign="top">
+<a href="(Berserk)Hand.png">
+<img src=".thumbnails/(Berserk)Hand.webp" width="320" alt="">
+</a>
+</td>
+
+
+<td align="center" valign="top">
+<a href="(Berserk)OpeningScreen.png">
+<img src=".thumbnails/(Berserk)OpeningScreen.webp" width="320" alt="">
+</a>
+</td>
+
+</tr>
+<tr>
+
+<td align="center" valign="top">
+<a href="(Berserk)StairsBlue.png">
+<img src=".thumbnails/(Berserk)StairsBlue.webp" width="320" alt="">
+</a>
+</td>
+
+
+<td align="center" valign="top">
+<a href="(Berserk)Zodd.png">
+<img src=".thumbnails/(Berserk)Zodd.webp" width="320" alt="">
 </a>
 </td>
 
@@ -487,16 +533,5 @@
 </a>
 </td>
 
-</tr>
-<tr>
-
-<td align="center" valign="top">
-<a href="flowers-9.jpg">
-<img src=".thumbnails/flowers-9.webp" width="320" alt="">
-</a>
-</td>
-
-<td></td>
-<td></td>
 </tr>
 </table>
