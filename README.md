@@ -1,6 +1,6 @@
 # 🖼 Wallpapers
 
-**Total Wallpapers:** **69**
+**Total Wallpapers:** **65**
 
 ---
 
@@ -491,13 +491,6 @@
 <tr>
 
 <td align="center" valign="top">
-<a href="a_mountain_range_with_snow_on_top.jpg">
-<img src=".thumbnails/a_mountain_range_with_snow_on_top.webp" width="320" alt="">
-</a>
-</td>
-
-
-<td align="center" valign="top">
 <a href="a_plane_on_the_ground.jpg">
 <img src=".thumbnails/a_plane_on_the_ground.webp" width="320" alt="">
 </a>
@@ -510,28 +503,6 @@
 </a>
 </td>
 
-</tr>
-<tr>
-
-<td align="center" valign="top">
-<a href="a_road_with_lights_on_the_side_of_a_body_of_water.jpg">
-<img src=".thumbnails/a_road_with_lights_on_the_side_of_a_body_of_water.webp" width="320" alt="">
-</a>
-</td>
-
-
-<td align="center" valign="top">
-<a href="a_spiral_staircase_with_a_square_hole_in_the_middle.jpg">
-<img src=".thumbnails/a_spiral_staircase_with_a_square_hole_in_the_middle.webp" width="320" alt="">
-</a>
-</td>
-
-
-<td align="center" valign="top">
-<a href="bluehour.jpg">
-<img src=".thumbnails/bluehour.webp" width="320" alt="">
-</a>
-</td>
-
+<td></td>
 </tr>
 </table>
