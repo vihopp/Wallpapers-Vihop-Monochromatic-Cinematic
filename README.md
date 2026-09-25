@@ -1,6 +1,6 @@
 # 🖼 Wallpapers
 
-**Total Wallpapers:** **65**
+**Total Wallpapers:** **64**
 
 ---
 
@@ -307,13 +307,6 @@
 <tr>
 
 <td align="center" valign="top">
-<a href="(HOTD)TargaryanShip.png">
-<img src=".thumbnails/(HOTD)TargaryanShip.webp" width="320" alt="">
-</a>
-</td>
-
-
-<td align="center" valign="top">
 <a href="(HOTD)Vermithor.jpg">
 <img src=".thumbnails/(HOTD)Vermithor.webp" width="320" alt="">
 </a>
@@ -326,8 +319,6 @@
 </a>
 </td>
 
-</tr>
-<tr>
 
 <td align="center" valign="top">
 <a href="(Tron)Bike.png">
@@ -335,6 +326,8 @@
 </a>
 </td>
 
+</tr>
+<tr>
 
 <td align="center" valign="top">
 <a href="(Tron)Explosion.png">
@@ -349,8 +342,6 @@
 </a>
 </td>
 
-</tr>
-<tr>
 
 <td align="center" valign="top">
 <a href="(Vikings)Bay.png">
@@ -358,6 +349,8 @@
 </a>
 </td>
 
+</tr>
+<tr>
 
 <td align="center" valign="top">
 <a href="(Vikings)CamelShot.png">
@@ -372,8 +365,6 @@
 </a>
 </td>
 
-</tr>
-<tr>
 
 <td align="center" valign="top">
 <a href="(Vikings)CaveTrapped.png">
@@ -381,6 +372,8 @@
 </a>
 </td>
 
+</tr>
+<tr>
 
 <td align="center" valign="top">
 <a href="(Vikings)Death.png">
@@ -395,8 +388,6 @@
 </a>
 </td>
 
-</tr>
-<tr>
 
 <td align="center" valign="top">
 <a href="(Vikings)FoggedTree.jpeg.png">
@@ -404,6 +395,8 @@
 </a>
 </td>
 
+</tr>
+<tr>
 
 <td align="center" valign="top">
 <a href="(Vikings)Forest.png">
@@ -418,8 +411,6 @@
 </a>
 </td>
 
-</tr>
-<tr>
 
 <td align="center" valign="top">
 <a href="(Vikings)IcedMountains.png">
@@ -427,6 +418,8 @@
 </a>
 </td>
 
+</tr>
+<tr>
 
 <td align="center" valign="top">
 <a href="(Vikings)IcelandCoast.png">
@@ -434,15 +427,6 @@
 </a>
 </td>
 
-
-<td align="center" valign="top">
-<a href="(Vikings)Ship.png">
-<img src=".thumbnails/(Vikings)Ship.webp" width="320" alt="">
-</a>
-</td>
-
-</tr>
-<tr>
 
 <td align="center" valign="top">
 <a href="(Vikings)Shipwreck.png">
@@ -457,6 +441,8 @@
 </a>
 </td>
 
+</tr>
+<tr>
 
 <td align="center" valign="top">
 <a href="Dune1.jpg">
@@ -464,8 +450,6 @@
 </a>
 </td>
 
-</tr>
-<tr>
 
 <td align="center" valign="top">
 <a href="Inception.png">
@@ -480,6 +464,8 @@
 </a>
 </td>
 
+</tr>
+<tr>
 
 <td align="center" valign="top">
 <a href="Planet.png">
@@ -487,8 +473,6 @@
 </a>
 </td>
 
-</tr>
-<tr>
 
 <td align="center" valign="top">
 <a href="a_plane_on_the_ground.jpg">
@@ -503,6 +487,16 @@
 </a>
 </td>
 
+</tr>
+<tr>
+
+<td align="center" valign="top">
+<a href="image.psd.png">
+<img src=".thumbnails/image.psd.webp" width="320" alt="">
+</a>
+</td>
+
+<td></td>
 <td></td>
 </tr>
 </table>
